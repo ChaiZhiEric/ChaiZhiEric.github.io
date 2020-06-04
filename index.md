@@ -1,1 +1,1 @@
-[个人简历](https://chaizhieric.github.io/markdowns/resume.html "RESUME")
+[个人简历](https://chaizhieric.github.io/Markdowns.md/resume.html "RESUME")
