@@ -3,7 +3,8 @@
 
 ## 基本信息
 
-<img src="https://chaizhieric.github.io/Pic/white.jpg" style="zoom: 25%"> 
+<img src="https://chaizhieric.github.io/Pic/white.jpg" style="zoom: 20%"> 
+
 - 籍贯：浙江省杭州市         出生年月：1998.09
 - 电话：188-0681-7173     邮箱：ChaiZhi_Eric@outlook.com    微信：chaizhiWX
 - **加权均分：89.9                GPA ：3.9/4               专业排名：3/62（实验班单独排名**）
