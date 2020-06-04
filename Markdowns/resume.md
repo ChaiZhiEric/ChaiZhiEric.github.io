@@ -1,7 +1,7 @@
+# 柴智
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>柴智</h1>
       <p><b>本科-大三</b></p>
       <p><b>西安电子科技大学通信工程学院</b></p>
       <p><b>邮箱：ChaiZhi_Eric@outlook.com</b></p>
