@@ -18,7 +18,7 @@
 
 #### 2.[笔 记 库：保 研 复 习](https://github.com/ChaiZhiEric/Univercity)
 
-#### 3. [Linuxs设置库](https://github.com/ChaiZhiEric/classNotes/LinuxSettings )
+#### 3. [Linux设置库](https://github.com/ChaiZhiEric/classNotes/LinuxSettings )
 
 ### PUBLIC
 
