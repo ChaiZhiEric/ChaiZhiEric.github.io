@@ -2,7 +2,7 @@
 
 ### 1.  [简 历](https://chaizhieric.github.io/Markdowns/resume.html "RESUME") /  [RESUME](https://chaizhieric.github.io/Markdowns/resume_en.html "RESUME_EN") 
 
-### 2.  个 人 陈 述
+### 2.  [个 人 陈 述](https://chaizhieric.github.io/Markdowns/selfIntro.html "SELFINTRO")
 
 ### 3.  [成 绩 证 明](https://chaizhieric.github.io/Pic/成绩单.png "成绩单")
 
