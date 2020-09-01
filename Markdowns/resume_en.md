@@ -12,15 +12,15 @@
 
 #### Contact
 
-- **Tel**：188-0681-7173   
+- **Tel**：188-\*\*\*\*-7173   
 - **E-Mail**：ChaiZhi_Eric@outlook.com   
--  **WeChat**：chaizhiWX
+-  **WeChat**：chaizh\*\*
 
 #### Study 
 
-- **GPA**：**3.9/4.0  **       
-- **Average Score：89.9 **
-- **Rank：**3/62（Experiment Class）
+- **GPA**：**3.9/4.0**       
+- **Average Score：89.9**
+- **Rank:** 3/62（Experiment Class）
 
 ## Education background
 
